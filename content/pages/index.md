@@ -25,7 +25,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Skontaktuj się z nami
         altText: ''
         url: /
         showIcon: true
