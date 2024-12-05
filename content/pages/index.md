@@ -168,7 +168,7 @@ sections:
         textAlign: center
   - subtitle: Poznaj nasze marki
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/Untitled.svg
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
