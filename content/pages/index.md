@@ -116,7 +116,9 @@ sections:
         type: FeaturedItem
       - title: 100%
         subtitle: Gwarancji satysfakcji.
-        text: ''
+        text: >
+          Wkładamy całe serce w tworzone przez nas produkty, stąd zadowolenie
+          klienta jest dla nas najważniejsze.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
