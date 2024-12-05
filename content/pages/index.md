@@ -152,7 +152,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: Dlaczego Matmar?
+      label: ''
       color: text-primary
       styles:
         self:
