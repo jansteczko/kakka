@@ -67,10 +67,8 @@ sections:
       - type: FeaturedItem
         title: 15+
         subtitle: Lat na rynku
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Oferujemy najwyższą jakość produktów lakierniczych od 2009 roku.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
