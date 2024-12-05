@@ -91,7 +91,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 24h
+      - title: <24h
         subtitle: Tyle potrzeba na wysłkę produktu
         text: |
           Wybierz dogodną dla Ciebie formę dostawy.
