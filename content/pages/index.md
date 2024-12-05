@@ -16,7 +16,7 @@ sections:
       aplikacji. Dzięki zaawansowanej formule łączy w sobie wyjątkową estetykę i
       ochronę przed czynnikami zewnętrznymi.
     actions:
-      - label: Get started
+      - label: Czytaj więcej
         altText: ''
         url: /
         showIcon: false
