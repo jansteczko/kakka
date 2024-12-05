@@ -9,9 +9,12 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Odkryj lakier samochodowy, który spełni oczekiwania nawet najbardziej
+      wymagających kierowców i specjalistów w branży motoryzacyjnej. Nasz
+      **lakier samochodowy Andronic** to innowacyjne rozwiązanie stworzone z
+      myślą o doskonałym wyglądzie pojazdu, trwałości powłoki oraz łatwości
+      aplikacji. Dzięki zaawansowanej formule łączy w sobie wyjątkową estetykę i
+      ochronę przed czynnikami zewnętrznymi.
     actions:
       - label: Get started
         altText: ''
