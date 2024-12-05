@@ -92,7 +92,7 @@ sections:
             self:
               borderRadius: x-large
       - title: 24h
-        subtitle: The Job Stuff
+        subtitle: Tyle potrzeba na wysłkę
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
