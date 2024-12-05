@@ -92,7 +92,7 @@ sections:
             self:
               borderRadius: x-large
       - title: 24h
-        subtitle: Tyle potrzeba na wysłkę
+        subtitle: Tyle potrzeba na wysłkę produktu
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
